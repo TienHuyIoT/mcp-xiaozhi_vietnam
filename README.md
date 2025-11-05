@@ -17,6 +17,8 @@ MCP (Model Context Protocol) là một giao thức cho phép máy chủ cung c�
 
 ## Bắt đầu nhanh
 
+[Cài Python phiên bản mới nhất](https://www.python.org/downloads/)
+
 1. Cài đặt các phụ thuộc:
 
 ```bash
@@ -89,7 +91,7 @@ if __name__ == "__main__":
 
 ## Yêu cầu
 
-- Python 3.7+
+- Python 3.14+ : [Python link](https://www.python.org/downloads/)
 - websockets>=11.0.3
 - python-dotenv>=1.0.0
 - mcp>=1.8.1
